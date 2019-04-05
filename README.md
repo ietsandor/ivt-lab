@@ -1,5 +1,6 @@
 # IVT Spaceship
 
+Ez egy új változtatás a branch-A-n.
 Ez itt egy változtatás.
 
 This is a sample application for the [Integration and Verification Techniques](http://www.mit.bme.hu/oktatas/targyak/vimiac04) course at BME MIT.
