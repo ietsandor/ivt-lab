@@ -42,6 +42,8 @@ public class TorpedoStore {
 
     if (r >= FAILURE_RATE) {
       // successful firing
+      //ez itt egy változtatás az új enterrel
+      
       this.torpedoCount -= numberOfTorpedos;
       success = true;
     } else {
